@@ -1,4 +1,4 @@
-  ### Hi there, I'm Larissa Oliveira, dev front-end! now studying back-end to be dev fullStack👋
+  ### Hi there, I'm Larissa Oliveira, dev front-end! now studying back-end to be dev fullStack 👋
   <hr>
 <div align="center">
   <a href="https://github.com/larissakoliveira">
