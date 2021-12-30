@@ -1,4 +1,4 @@
-  ### Hi there, I'm Larissa Oliveira 👋 ### Olá, Eu sou Larissa Oliveira 👋
+  ### Hi there, I'm Larissa Oliveira 👋
 
 <div align="center">
   <a href="https://github.com/larissakoliveira">
@@ -23,8 +23,11 @@
  <div> 
   <a href = "mailto:oliveir5uwm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/oliveir5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-   <a height='50px'href="https://larissa-portfolio.vercel.app/" target="_blank"><img src="https://badgen.net/badge/:MEU/:SITE-PORTFOLIO/:"red"?label=MEU" ></a> <br><br><br><br>
-   
-  ![Snake animation](https://github.com/larissakoliveira/larissakoliveira/blob/output/github-contribution-grid-snake.svg)
+    <br>
+      <h3> Check my portfolio to see some of my projects and resume. </h3>
+     <a height='50px'href="https://larissa-portfolio.vercel.app/" target="_blank"><img src="https://badgen.net/badge/:MEU/:SITE-PORTFOLIO/:"red"?label=MEU" ></a>
+   <br>
+
 </div>
+      
                                                                         
