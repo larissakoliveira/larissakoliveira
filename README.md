@@ -21,7 +21,7 @@
 </div>
 <br>  <hr>
  <div> 
-      <h3 text-align='center'> Check out my portfolio to see some of my projects and resume #PS:haven't finished it yet. <a height='50px'href="https://larissa-portfolio.vercel.app/" target="_blank"><img src="https://badgen.net/badge/MEU/SITE-PORTFOLIO/"red"?label=MEU" ></a>
+      <h3 text-align='center'> Check out my portfolio to see some of my projects and resume #PS:still working on it. <a height='50px'href="https://larissa-portfolio.vercel.app/" target="_blank"><img src="https://badgen.net/badge/MEU/SITE-PORTFOLIO/"red"?label=MEU" ></a>
  </h3>
    <br>
     <a href = "mailto:oliveir5uwm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
