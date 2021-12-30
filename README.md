@@ -22,10 +22,10 @@
 <br><br>
  <div> 
   <a href = "mailto:oliveir5uwm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/oliveir5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+  <a href="https://www.linkedin.com/in/oliveir5/" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
     <br>
-      <h3> Check my portfolio to see some of my projects and resume. </h3>
-     <a height='50px'href="https://larissa-portfolio.vercel.app/" target="_blank"><img src="https://badgen.net/badge/:MEU/:SITE-PORTFOLIO/:"red"?label=MEU" ></a>
+      <h3 text-align='center'> Check my portfolio to see some of my projects and resume. </h3>
+     <a height='50px'href="https://larissa-portfolio.vercel.app/" target="_blank"><img src="https://badgen.net/badge/MEU/SITE-PORTFOLIO/"red"?label=MEU" ></a>
    <br>
 
 </div>
