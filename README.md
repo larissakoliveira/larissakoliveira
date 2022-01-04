@@ -16,7 +16,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissakoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
     <hr>
- <div align="center"> <br>
+ <div align="center">
       <h3 text-align='center'> Check out my portfolio to see some of my projects and resume #PS:still working on it. <a href="https://larissa-portfolio.vercel.app/" target="_blank"><img src="https://badgen.net/badge/LARISSA/SITE-PORTFOLIO/purple?label=LARISSA" ></a>
  </h3>
    <br>
