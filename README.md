@@ -1,4 +1,4 @@
-  ### Hi there, I'm Larissa Oliveira, Full-Stack developer! 👋
+  ### Hi there, I'm Larissa Oliveira, Full Stack developer! 👋
   <hr>
   
   <div align="center" style="display:inline"><br>
